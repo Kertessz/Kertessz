@@ -1,4 +1,4 @@
-# Guilherme Kertes 👨‍💻
+# Guilherme Kertes da Costa 👨‍💻
 
 ### Backend Developer | Java • Python • SQL • Data Solutions
 
